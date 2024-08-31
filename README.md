@@ -40,7 +40,6 @@ This project involved migrating and analyzing sales data for a UK-based pizza co
   - Supreme: **11,987 pizzas**
   - Veggie: **11,649 pizzas**
   - Chicken: **11,050 pizzas**
-![pizza 3](https://github.com/user-attachments/assets/c26e8d38-cd2e-4dfd-b049-3782aa393504)
 
 #### **Pizza Size Demand**
 - Large: **18,956 pizzas**
@@ -71,6 +70,7 @@ This project involved migrating and analyzing sales data for a UK-based pizza co
 - **Monthly Sales**:
   - **Peak Sales**: July and May.
   - **Lowest Sales**: September and October.
+![pizza 3](https://github.com/user-attachments/assets/c26e8d38-cd2e-4dfd-b049-3782aa393504)
 
 
 #### **Correlation Analysis**
