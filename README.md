@@ -1,4 +1,6 @@
 # Pizza_sales_project
+![pizza](https://github.com/user-attachments/assets/7d8c7935-71c2-485a-819a-1b5d371036b7)
+
 ## **Data Analysis Portfolio: Pizza Company Sales Analysis**
 
 ### **Project Overview**
